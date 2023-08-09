@@ -32,6 +32,10 @@ main {
     align-items: center;
 }
 
+.resultado {
+    text-align: center;
+}
+
 button {
     padding: 3px;
     border-radius: 5px;

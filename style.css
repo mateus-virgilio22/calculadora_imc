@@ -54,6 +54,7 @@ input {
     border-radius: 5px;
     border: 1px solid black;
     text-align: center;
+    padding: 8px;
 }
 
 input::-webkit-outer-spin-button,
